@@ -1,0 +1,5 @@
+billfold_site:
+    resource: "@BillfoldSiteBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
